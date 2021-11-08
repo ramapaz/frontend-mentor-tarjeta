@@ -1,1 +1,0 @@
-# frontend-mentor-tarjeta
